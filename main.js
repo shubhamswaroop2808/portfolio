@@ -5,4 +5,3 @@ document.addEventListener('DOMContentLoaded', function() {
       alert('Shubham is on a journey to a happier, healthier life!');
     });
   });
-  //alert('Shubham is on a journey to a rockstar 
